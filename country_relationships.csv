@@ -1,0 +1,1758 @@
+,source,target
+0,France,Germany
+1,Germany,Russia
+2,France,Germany
+3,Germany,Russia
+4,Germany,Russia
+5,Germany,Russia
+6,France,Germany
+7,Germany,Russia
+8,Germany,Russia
+9,Germany,Russia
+10,Germany,Russia
+11,France,Germany
+12,Germany,Russia
+13,Germany,Russia
+14,Germany,Russia
+15,Germany,Russia
+16,United States of America,Germany
+17,France,Germany
+18,Germany,Russia
+19,Germany,Russia
+20,Germany,Russia
+21,Germany,Russia
+22,United States of America,Germany
+23,United States of America,Germany
+24,United Kingdom,Germany
+25,France,Germany
+26,Germany,Russia
+27,Germany,Russia
+28,Germany,Russia
+29,Germany,Russia
+30,United States of America,Germany
+31,United States of America,Germany
+32,United Kingdom,Germany
+33,Germany,Russia
+34,Germany,Russia
+35,United States of America,Germany
+36,United States of America,Germany
+37,United Kingdom,Germany
+38,United States of America,Germany
+39,United States of America,Germany
+40,United Kingdom,Germany
+41,United States of America,Germany
+42,United States of America,Germany
+43,United Kingdom,Germany
+44,United Kingdom,Germany
+45,United Kingdom,Germany
+46,United Kingdom,Germany
+47,Germany,Germany
+48,Germany,Germany
+49,Germany,Germany
+50,Germany,Germany
+51,Germany,Germany
+52,Germany,Germany
+53,Germany,Germany
+54,Germany,Italy
+55,Germany,Germany
+56,Germany,Italy
+57,Germany,Italy
+58,Germany,Germany
+59,Germany,Germany
+60,Germany,Italy
+61,Germany,Italy
+62,Germany,Germany
+63,Germany,Germany
+64,Germany,Germany
+65,Germany,Germany
+66,Germany,Germany
+67,Germany,Italy
+68,Germany,Italy
+69,Germany,Germany
+70,Germany,Germany
+71,Germany,Germany
+72,Germany,Germany
+73,Germany,Germany
+74,Germany,Italy
+75,Germany,Italy
+76,Germany,Germany
+77,Germany,Germany
+78,Germany,Germany
+79,Germany,Germany
+80,Germany,Germany
+81,Austria,Germany
+82,Austria,Germany
+83,Germany,Italy
+84,Germany,Italy
+85,Germany,Germany
+86,Germany,Germany
+87,Germany,Germany
+88,Germany,Germany
+89,Germany,Germany
+90,Austria,Germany
+91,Austria,Germany
+92,Germany,Germany
+93,Germany,Germany
+94,Germany,Germany
+95,Germany,Germany
+96,Germany,Germany
+97,Germany,Germany
+98,Austria,Germany
+99,Austria,Germany
+100,Germany,Germany
+101,United Kingdom,Germany
+102,Germany,Germany
+103,Germany,Germany
+104,Germany,Germany
+105,Austria,Germany
+106,Austria,Germany
+107,Germany,Germany
+108,United Kingdom,Germany
+109,Austria,Germany
+110,Austria,Germany
+111,Germany,Germany
+112,United Kingdom,Germany
+113,Austria,Germany
+114,Germany,Germany
+115,United Kingdom,Germany
+116,United Kingdom,Spain
+117,United Kingdom,Germany
+118,United Kingdom,Spain
+119,United Kingdom,Spain
+120,United Kingdom,Spain
+121,United Kingdom,France
+122,France,Poland
+123,United Kingdom,France
+124,France,Poland
+125,United Kingdom,France
+126,France,Poland
+127,United Kingdom,Poland
+128,United Kingdom,France
+129,France,Germany
+130,Germany,Poland
+131,Poland,Russia
+132,United Kingdom,France
+133,France,Poland
+134,United Kingdom,Poland
+135,United Kingdom,France
+136,France,Germany
+137,Germany,Poland
+138,Poland,Russia
+139,Germany,Russia
+140,United Kingdom,France
+141,France,Poland
+142,United Kingdom,Poland
+143,United Kingdom,France
+144,France,Germany
+145,Germany,Poland
+146,Poland,Russia
+147,Germany,Russia
+148,Germany,Germany
+149,United Kingdom,France
+150,France,Poland
+151,United Kingdom,Poland
+152,United Kingdom,France
+153,France,Germany
+154,Germany,Poland
+155,Poland,Russia
+156,Germany,Russia
+157,Germany,Germany
+158,United Kingdom,Poland
+159,United Kingdom,France
+160,France,Germany
+161,Germany,Poland
+162,Poland,Russia
+163,Germany,Russia
+164,Germany,Germany
+165,Germany,Poland
+166,Poland,Russia
+167,Germany,Russia
+168,United Kingdom,France
+169,France,Germany
+170,Germany,Poland
+171,Poland,Russia
+172,Germany,Russia
+173,Germany,Germany
+174,Germany,Poland
+175,Poland,Russia
+176,Germany,Russia
+177,Estonia,Germany
+178,Estonia,Latvia
+179,Latvia,Lithuania
+180,Lithuania,Russia
+181,Germany,Germany
+182,Germany,Poland
+183,Poland,Russia
+184,Germany,Russia
+185,Estonia,Germany
+186,Estonia,Latvia
+187,Latvia,Lithuania
+188,Lithuania,Russia
+189,Finland,Russia
+190,Finland,Russia
+191,Germany,Poland
+192,Poland,Russia
+193,Germany,Russia
+194,Estonia,Germany
+195,Estonia,Latvia
+196,Latvia,Lithuania
+197,Lithuania,Russia
+198,Finland,Russia
+199,Finland,Russia
+200,Germany,Russia
+201,Germany,Poland
+202,Poland,Russia
+203,Germany,Russia
+204,Estonia,Germany
+205,Estonia,Latvia
+206,Latvia,Lithuania
+207,Lithuania,Russia
+208,Finland,Russia
+209,Finland,Russia
+210,Germany,Russia
+211,Germany,Poland
+212,Denmark,Poland
+213,Denmark,Norway
+214,Poland,Russia
+215,Germany,Russia
+216,Estonia,Germany
+217,Estonia,Latvia
+218,Latvia,Lithuania
+219,Lithuania,Russia
+220,Finland,Russia
+221,Finland,Russia
+222,Germany,Russia
+223,Germany,Poland
+224,Denmark,Poland
+225,Denmark,Norway
+226,Estonia,Latvia
+227,Latvia,Lithuania
+228,Lithuania,Russia
+229,Finland,Russia
+230,Finland,Russia
+231,Germany,Russia
+232,Germany,Poland
+233,Denmark,Poland
+234,Denmark,Norway
+235,Denmark,Norway
+236,Denmark,Sweden
+237,Germany,Sweden
+238,Finland,Russia
+239,Germany,Russia
+240,Germany,Poland
+241,Denmark,Poland
+242,Denmark,Norway
+243,Denmark,Norway
+244,Denmark,Sweden
+245,Germany,Sweden
+246,Germany,Germany
+247,Belgium,Germany
+248,Belgium,Netherlands
+249,Luxembourg,Netherlands
+250,Germany,Luxembourg
+251,Germany,Poland
+252,Denmark,Poland
+253,Denmark,Norway
+254,Denmark,Norway
+255,Denmark,Sweden
+256,Germany,Sweden
+257,Germany,Germany
+258,Belgium,Germany
+259,Belgium,Netherlands
+260,Luxembourg,Netherlands
+261,Germany,Luxembourg
+262,Belgium,Germany
+263,Belgium,Germany
+264,Germany,Germany
+265,France,Germany
+266,Denmark,Norway
+267,Denmark,Norway
+268,Denmark,Sweden
+269,Germany,Sweden
+270,Germany,Germany
+271,Belgium,Germany
+272,Belgium,Netherlands
+273,Luxembourg,Netherlands
+274,Germany,Luxembourg
+275,Belgium,Germany
+276,Belgium,Germany
+277,Germany,Germany
+278,France,Germany
+279,Denmark,Norway
+280,Denmark,Sweden
+281,Germany,Sweden
+282,Germany,Germany
+283,Belgium,Germany
+284,Belgium,Netherlands
+285,Luxembourg,Netherlands
+286,Germany,Luxembourg
+287,Belgium,Germany
+288,Belgium,Germany
+289,Germany,Germany
+290,France,Germany
+291,United Kingdom,France
+292,United Kingdom,France
+293,United Kingdom,France
+294,Denmark,Norway
+295,Denmark,Sweden
+296,Germany,Sweden
+297,Germany,Germany
+298,Belgium,Germany
+299,Belgium,Netherlands
+300,Luxembourg,Netherlands
+301,Germany,Luxembourg
+302,Belgium,Germany
+303,Belgium,Germany
+304,Germany,Germany
+305,France,Germany
+306,United Kingdom,France
+307,United Kingdom,France
+308,United Kingdom,France
+309,Belgium,Germany
+310,Belgium,Netherlands
+311,Luxembourg,Netherlands
+312,Germany,Luxembourg
+313,Belgium,Germany
+314,Belgium,Germany
+315,Germany,Germany
+316,France,Germany
+317,United Kingdom,France
+318,United Kingdom,France
+319,United Kingdom,France
+320,Belgium,Germany
+321,Germany,Germany
+322,France,Germany
+323,United Kingdom,France
+324,United Kingdom,France
+325,United Kingdom,France
+326,United Kingdom,France
+327,United Kingdom,France
+328,United Kingdom,France
+329,United Kingdom,France
+330,United Kingdom,France
+331,France,France
+332,France,Italy
+333,France,Italy
+334,France,Italy
+335,United Kingdom,France
+336,United Kingdom,France
+337,United Kingdom,France
+338,United Kingdom,France
+339,France,France
+340,France,Italy
+341,France,Italy
+342,France,Italy
+343,United Kingdom,Italy
+344,United Kingdom,United Kingdom
+345,France,France
+346,France,Italy
+347,France,Italy
+348,France,Italy
+349,United Kingdom,Italy
+350,United Kingdom,United Kingdom
+351,United Kingdom,United Kingdom
+352,United Kingdom,Germany
+353,Germany,Germany
+354,Germany,Germany
+355,United Kingdom,Germany
+356,United Kingdom,Germany
+357,France,France
+358,France,Italy
+359,France,Italy
+360,France,Italy
+361,United Kingdom,Italy
+362,United Kingdom,United Kingdom
+363,United Kingdom,United Kingdom
+364,United Kingdom,Germany
+365,Germany,Germany
+366,Germany,Germany
+367,United Kingdom,Germany
+368,United Kingdom,Germany
+369,United Kingdom,Germany
+370,France,France
+371,France,Italy
+372,France,Italy
+373,France,Italy
+374,United Kingdom,Italy
+375,United Kingdom,United Kingdom
+376,United Kingdom,United Kingdom
+377,United Kingdom,Germany
+378,Germany,Germany
+379,Germany,Germany
+380,United Kingdom,Germany
+381,United Kingdom,Germany
+382,United Kingdom,Germany
+383,France,Italy
+384,France,Italy
+385,France,Italy
+386,United Kingdom,Italy
+387,United Kingdom,United Kingdom
+388,United Kingdom,United Kingdom
+389,United Kingdom,Germany
+390,Germany,Germany
+391,Germany,Germany
+392,United Kingdom,Germany
+393,United Kingdom,Germany
+394,United Kingdom,Germany
+395,United Kingdom,Germany
+396,United Kingdom,Germany
+397,United Kingdom,United Kingdom
+398,United Kingdom,United Kingdom
+399,United Kingdom,Germany
+400,Germany,Germany
+401,Germany,Germany
+402,United Kingdom,Germany
+403,United Kingdom,Germany
+404,United Kingdom,Germany
+405,United Kingdom,Germany
+406,United Kingdom,Germany
+407,United Kingdom,Germany
+408,Germany,Germany
+409,Germany,Germany
+410,United Kingdom,Germany
+411,United Kingdom,Germany
+412,United Kingdom,Germany
+413,United Kingdom,Germany
+414,United Kingdom,Germany
+415,United Kingdom,Germany
+416,United Kingdom,Germany
+417,United Kingdom,Germany
+418,United Kingdom,Germany
+419,United Kingdom,Germany
+420,United Kingdom,Germany
+421,United Kingdom,Greece
+422,Albania,Greece
+423,Albania,Greece
+424,Greece,Russia
+425,Germany,Russia
+426,United Kingdom,Greece
+427,Albania,Greece
+428,Albania,Greece
+429,Greece,Russia
+430,Germany,Russia
+431,Germany,Russia
+432,United Kingdom,Greece
+433,Albania,Greece
+434,Albania,Greece
+435,Greece,Russia
+436,Germany,Russia
+437,Germany,Russia
+438,Germany,Russia
+439,Germany,Ukraine
+440,Belarus,Ukraine
+441,Albania,Greece
+442,Albania,Greece
+443,Greece,Russia
+444,Germany,Russia
+445,Germany,Russia
+446,Germany,Russia
+447,Germany,Ukraine
+448,Belarus,Ukraine
+449,Belarus,Russia
+450,Germany,Russia
+451,Albania,Greece
+452,Albania,Greece
+453,Greece,Russia
+454,Germany,Russia
+455,Germany,Russia
+456,Germany,Russia
+457,Germany,Ukraine
+458,Belarus,Ukraine
+459,Belarus,Russia
+460,Germany,Russia
+461,Albania,Greece
+462,Albania,Greece
+463,Greece,Russia
+464,Germany,Russia
+465,Germany,Russia
+466,Germany,Russia
+467,Germany,Ukraine
+468,Belarus,Ukraine
+469,Belarus,Russia
+470,Germany,Russia
+471,Germany,Germany
+472,Germany,Italy
+473,Italy,Libya
+474,United Kingdom,Libya
+475,United Kingdom,Egypt
+476,Germany,Russia
+477,Germany,Ukraine
+478,Belarus,Ukraine
+479,Belarus,Russia
+480,Germany,Russia
+481,Germany,Germany
+482,Germany,Italy
+483,Italy,Libya
+484,United Kingdom,Libya
+485,United Kingdom,Egypt
+486,United Kingdom,Egypt
+487,United Kingdom,Italy
+488,Italy,Libya
+489,Germany,Russia
+490,Germany,Ukraine
+491,Belarus,Ukraine
+492,Belarus,Russia
+493,Germany,Russia
+494,Germany,Germany
+495,Germany,Italy
+496,Italy,Libya
+497,United Kingdom,Libya
+498,United Kingdom,Egypt
+499,United Kingdom,Egypt
+500,United Kingdom,Italy
+501,Italy,Libya
+502,Germany,Russia
+503,Germany,Germany
+504,Germany,Italy
+505,Italy,Libya
+506,United Kingdom,Libya
+507,United Kingdom,Egypt
+508,United Kingdom,Egypt
+509,United Kingdom,Italy
+510,Italy,Libya
+511,United Kingdom,Libya
+512,United Kingdom,Egypt
+513,Germany,Italy
+514,Italy,Libya
+515,United Kingdom,Libya
+516,United Kingdom,Egypt
+517,United Kingdom,Egypt
+518,United Kingdom,Italy
+519,Italy,Libya
+520,United Kingdom,Libya
+521,United Kingdom,Egypt
+522,Egypt,Iraq
+523,Germany,Italy
+524,Italy,Libya
+525,United Kingdom,Libya
+526,United Kingdom,Egypt
+527,United Kingdom,Egypt
+528,United Kingdom,Italy
+529,Italy,Libya
+530,United Kingdom,Libya
+531,United Kingdom,Egypt
+532,Egypt,Iraq
+533,United Kingdom,Italy
+534,Italy,Libya
+535,United Kingdom,Libya
+536,United Kingdom,Egypt
+537,Egypt,Iraq
+538,Germany,Iraq
+539,United Kingdom,Egypt
+540,Egypt,Iraq
+541,Germany,Iraq
+542,United Kingdom,Egypt
+543,Egypt,Iraq
+544,Germany,Iraq
+545,Germany,Iraq
+546,Germany,Germany
+547,Germany,Germany
+548,Germany,Japan
+549,Germany,Germany
+550,Germany,Japan
+551,United States of America,Japan
+552,Germany,Germany
+553,Germany,Japan
+554,United States of America,Japan
+555,United States of America,Germany
+556,Germany,United States of America
+557,Japan,United States of America
+558,Germany,Japan
+559,Germany,Japan
+560,United States of America,Japan
+561,United States of America,Germany
+562,Germany,United States of America
+563,Japan,United States of America
+564,Germany,Japan
+565,Germany,Japan
+566,Japan,United States of America
+567,Russia,United States of America
+568,Germany,Japan
+569,United States of America,Japan
+570,United States of America,Germany
+571,Germany,United States of America
+572,Japan,United States of America
+573,Germany,Japan
+574,Germany,Japan
+575,Japan,United States of America
+576,Russia,United States of America
+577,Germany,Russia
+578,Germany,Italy
+579,United Kingdom,Italy
+580,United Kingdom,Germany
+581,Germany,Germany
+582,United States of America,Japan
+583,United States of America,Germany
+584,Germany,United States of America
+585,Japan,United States of America
+586,Germany,Japan
+587,Germany,Japan
+588,Japan,United States of America
+589,Russia,United States of America
+590,Germany,Russia
+591,Germany,Italy
+592,United Kingdom,Italy
+593,United Kingdom,Germany
+594,Germany,Germany
+595,Germany,Germany
+596,United States of America,Germany
+597,Germany,United States of America
+598,Japan,United States of America
+599,Germany,Japan
+600,Germany,Japan
+601,Japan,United States of America
+602,Russia,United States of America
+603,Germany,Russia
+604,Germany,Italy
+605,United Kingdom,Italy
+606,United Kingdom,Germany
+607,Germany,Germany
+608,Germany,Germany
+609,Germany,United States of America
+610,Japan,United States of America
+611,Germany,Japan
+612,Germany,Japan
+613,Japan,United States of America
+614,Russia,United States of America
+615,Germany,Russia
+616,Germany,Italy
+617,United Kingdom,Italy
+618,United Kingdom,Germany
+619,Germany,Germany
+620,Germany,Germany
+621,Japan,United States of America
+622,Russia,United States of America
+623,Germany,Russia
+624,Germany,Italy
+625,United Kingdom,Italy
+626,United Kingdom,Germany
+627,Germany,Germany
+628,Germany,Germany
+629,Germany,Italy
+630,United Kingdom,Italy
+631,United Kingdom,Germany
+632,Germany,Germany
+633,Germany,Germany
+634,United Kingdom,Germany
+635,United Kingdom,Germany
+636,United Kingdom,Germany
+637,Germany,Morocco
+638,Algeria,Morocco
+639,United Kingdom,Germany
+640,Germany,Morocco
+641,Algeria,Morocco
+642,Algeria,Italy
+643,United Kingdom,Germany
+644,Germany,Morocco
+645,Algeria,Morocco
+646,Algeria,Italy
+647,United Kingdom,Germany
+648,Germany,Morocco
+649,Algeria,Morocco
+650,Algeria,Italy
+651,Italy,Italy
+652,United Kingdom,Germany
+653,Germany,Morocco
+654,Algeria,Morocco
+655,Algeria,Italy
+656,Italy,Italy
+657,Germany,Morocco
+658,Algeria,Morocco
+659,Algeria,Italy
+660,Italy,Italy
+661,Italy,Italy
+662,Germany,Italy
+663,Italy,Italy
+664,Italy,Italy
+665,Germany,Italy
+666,Germany,Italy
+667,Germany,Italy
+668,Italy,Italy
+669,Italy,Italy
+670,Germany,Italy
+671,Germany,Italy
+672,Germany,Italy
+673,Germany,Germany
+674,Italy,Italy
+675,Germany,Italy
+676,Germany,Italy
+677,Germany,Italy
+678,Germany,Germany
+679,United Kingdom,Germany
+680,United States of America,United Kingdom
+681,United States of America,Germany
+682,Italy,Italy
+683,Germany,Italy
+684,Germany,Italy
+685,Germany,Italy
+686,Germany,Germany
+687,United Kingdom,Germany
+688,United States of America,United Kingdom
+689,United States of America,Germany
+690,Germany,Germany
+691,Italy,Italy
+692,Germany,Italy
+693,Germany,Italy
+694,Germany,Italy
+695,Germany,Germany
+696,United Kingdom,Germany
+697,United States of America,United Kingdom
+698,United States of America,Germany
+699,Germany,Germany
+700,Germany,Italy
+701,Germany,Germany
+702,United Kingdom,Germany
+703,United States of America,United Kingdom
+704,United States of America,Germany
+705,Germany,Germany
+706,United Kingdom,Germany
+707,United States of America,United Kingdom
+708,United States of America,Germany
+709,Germany,Germany
+710,France,Germany
+711,United Kingdom,Germany
+712,United States of America,United Kingdom
+713,United States of America,Germany
+714,Germany,Germany
+715,France,Germany
+716,France,Germany
+717,Germany,Germany
+718,France,Germany
+719,France,Germany
+720,Germany,Germany
+721,Germany,Germany
+722,France,Germany
+723,Germany,Germany
+724,Germany,Germany
+725,France,Germany
+726,Germany,Germany
+727,Germany,Germany
+728,France,Germany
+729,Germany,Germany
+730,Germany,Germany
+731,Germany,Germany
+732,Germany,Germany
+733,Germany,Germany
+734,Germany,Germany
+735,United States of America,Germany
+736,United States of America,Germany
+737,United States of America,Germany
+738,United States of America,Germany
+739,United States of America,United Kingdom
+740,United Kingdom,France
+741,France,United States of America
+742,Germany,United States of America
+743,United States of America,Germany
+744,United States of America,United Kingdom
+745,United Kingdom,France
+746,France,United States of America
+747,Germany,United States of America
+748,United States of America,United Kingdom
+749,United Kingdom,France
+750,France,United States of America
+751,Germany,United States of America
+752,Germany,Poland
+753,Germany,Poland
+754,United Kingdom,France
+755,France,United States of America
+756,Germany,United States of America
+757,Germany,Poland
+758,Germany,Poland
+759,Germany,Germany
+760,Germany,Germany
+761,United Kingdom,France
+762,France,United States of America
+763,Germany,United States of America
+764,Germany,Poland
+765,Germany,Poland
+766,Germany,Germany
+767,Germany,Germany
+768,United States of America,Germany
+769,United States of America,Germany
+770,United Kingdom,France
+771,France,United States of America
+772,Germany,United States of America
+773,Germany,Poland
+774,Germany,Poland
+775,Germany,Germany
+776,Germany,Germany
+777,United States of America,Germany
+778,United States of America,Germany
+779,Germany,Poland
+780,Germany,Germany
+781,Germany,Germany
+782,United States of America,Germany
+783,United States of America,Germany
+784,Germany,Poland
+785,Germany,Germany
+786,Germany,Germany
+787,United States of America,Germany
+788,United States of America,Germany
+789,Germany,Germany
+790,United States of America,Germany
+791,United States of America,Germany
+792,Germany,Germany
+793,United States of America,Germany
+794,Germany,Germany
+795,Germany,Japan
+796,China,Japan
+797,China,Japan
+798,China,Japan
+799,China,Japan
+800,Germany,Japan
+801,China,Japan
+802,China,Japan
+803,China,Japan
+804,China,Japan
+805,Japan,Japan
+806,Germany,Japan
+807,China,Japan
+808,China,Japan
+809,China,Japan
+810,China,Japan
+811,Japan,Japan
+812,China,Japan
+813,China,Japan
+814,China,Japan
+815,China,China
+816,China,Japan
+817,Germany,Japan
+818,China,Japan
+819,China,Japan
+820,China,Japan
+821,China,Japan
+822,Japan,Japan
+823,China,Japan
+824,China,Japan
+825,China,Japan
+826,China,China
+827,China,Japan
+828,Japan,Japan
+829,China,Japan
+830,Germany,Japan
+831,China,Japan
+832,China,Japan
+833,China,Japan
+834,China,Japan
+835,Japan,Japan
+836,China,Japan
+837,China,Japan
+838,China,Japan
+839,China,China
+840,China,Japan
+841,Japan,Japan
+842,China,Japan
+843,China,Japan
+844,Germany,Japan
+845,Germany,Japan
+846,United States of America,Japan
+847,United States of America,Japan
+848,China,Japan
+849,China,Japan
+850,China,Japan
+851,China,Japan
+852,Japan,Japan
+853,China,Japan
+854,China,Japan
+855,China,Japan
+856,China,China
+857,China,Japan
+858,Japan,Japan
+859,China,Japan
+860,China,Japan
+861,Germany,Japan
+862,Germany,Japan
+863,United States of America,Japan
+864,United States of America,Japan
+865,Japan,Thailand
+866,United Kingdom,Thailand
+867,United Kingdom,Singapore
+868,United States of America,Singapore
+869,United States of America,Japan
+870,Japan,Japan
+871,China,Japan
+872,China,Japan
+873,China,Japan
+874,China,China
+875,China,Japan
+876,Japan,Japan
+877,China,Japan
+878,China,Japan
+879,Germany,Japan
+880,Germany,Japan
+881,United States of America,Japan
+882,United States of America,Japan
+883,Japan,Thailand
+884,United Kingdom,Thailand
+885,United Kingdom,Singapore
+886,United States of America,Singapore
+887,United States of America,Japan
+888,Japan,Japan
+889,United Kingdom,Japan
+890,United Kingdom,Solomon Islands
+891,Philippines,Solomon Islands
+892,Japan,Philippines
+893,Japan,Japan
+894,China,Japan
+895,China,Japan
+896,China,China
+897,China,Japan
+898,Japan,Japan
+899,China,Japan
+900,China,Japan
+901,Germany,Japan
+902,Germany,Japan
+903,United States of America,Japan
+904,United States of America,Japan
+905,Japan,Thailand
+906,United Kingdom,Thailand
+907,United Kingdom,Singapore
+908,United States of America,Singapore
+909,United States of America,Japan
+910,Japan,Japan
+911,United Kingdom,Japan
+912,United Kingdom,Solomon Islands
+913,Philippines,Solomon Islands
+914,Japan,Philippines
+915,Japan,Japan
+916,China,Japan
+917,China,Japan
+918,Germany,Japan
+919,Germany,Japan
+920,United States of America,Japan
+921,United States of America,Japan
+922,Japan,Thailand
+923,United Kingdom,Thailand
+924,United Kingdom,Singapore
+925,United States of America,Singapore
+926,United States of America,Japan
+927,Japan,Japan
+928,United Kingdom,Japan
+929,United Kingdom,Solomon Islands
+930,Philippines,Solomon Islands
+931,Japan,Philippines
+932,Japan,Japan
+933,Japan,Solomon Islands
+934,Japan,Solomon Islands
+935,China,Japan
+936,Germany,Japan
+937,Germany,Japan
+938,United States of America,Japan
+939,United States of America,Japan
+940,Japan,Thailand
+941,United Kingdom,Thailand
+942,United Kingdom,Singapore
+943,United States of America,Singapore
+944,United States of America,Japan
+945,Japan,Japan
+946,United Kingdom,Japan
+947,United Kingdom,Solomon Islands
+948,Philippines,Solomon Islands
+949,Japan,Philippines
+950,Japan,Japan
+951,Japan,Solomon Islands
+952,Japan,Solomon Islands
+953,Japan,Japan
+954,Japan,Japan
+955,Japan,Thailand
+956,United Kingdom,Thailand
+957,United Kingdom,Singapore
+958,United States of America,Singapore
+959,United States of America,Japan
+960,Japan,Japan
+961,United Kingdom,Japan
+962,United Kingdom,Solomon Islands
+963,Philippines,Solomon Islands
+964,Japan,Philippines
+965,Japan,Japan
+966,Japan,Solomon Islands
+967,Japan,Solomon Islands
+968,Japan,Japan
+969,Japan,Japan
+970,Japan,United States of America
+971,Japan,United States of America
+972,Japan,Japan
+973,India,Japan
+974,India,Japan
+975,United States of America,Japan
+976,United States of America,Japan
+977,United States of America,Japan
+978,United States of America,Japan
+979,United Kingdom,Japan
+980,United Kingdom,Solomon Islands
+981,Philippines,Solomon Islands
+982,Japan,Philippines
+983,Japan,Japan
+984,Japan,Solomon Islands
+985,Japan,Solomon Islands
+986,Japan,Japan
+987,Japan,Japan
+988,Japan,United States of America
+989,Japan,United States of America
+990,Japan,Japan
+991,India,Japan
+992,India,Japan
+993,United States of America,Japan
+994,United States of America,Japan
+995,United States of America,Japan
+996,United States of America,Japan
+997,Japan,Japan
+998,Japan,Solomon Islands
+999,Japan,Solomon Islands
+1000,Japan,Japan
+1001,Japan,Japan
+1002,Japan,United States of America
+1003,Japan,United States of America
+1004,Japan,Japan
+1005,India,Japan
+1006,India,Japan
+1007,United States of America,Japan
+1008,United States of America,Japan
+1009,United States of America,Japan
+1010,United States of America,Japan
+1011,Japan,Japan
+1012,Japan,Japan
+1013,United States of America,Japan
+1014,United States of America,Japan
+1015,Japan,United States of America
+1016,Japan,United States of America
+1017,Japan,Japan
+1018,China,Japan
+1019,Japan,Solomon Islands
+1020,Japan,Solomon Islands
+1021,Japan,Japan
+1022,Japan,Japan
+1023,Japan,United States of America
+1024,Japan,United States of America
+1025,Japan,Japan
+1026,India,Japan
+1027,India,Japan
+1028,United States of America,Japan
+1029,United States of America,Japan
+1030,United States of America,Japan
+1031,United States of America,Japan
+1032,Japan,Japan
+1033,Japan,Japan
+1034,United States of America,Japan
+1035,United States of America,Japan
+1036,Japan,United States of America
+1037,Japan,United States of America
+1038,Japan,Japan
+1039,China,Japan
+1040,China,Japan
+1041,Japan,United States of America
+1042,Japan,United States of America
+1043,Japan,Japan
+1044,Japan,United States of America
+1045,Japan,United States of America
+1046,Japan,Japan
+1047,India,Japan
+1048,India,Japan
+1049,United States of America,Japan
+1050,United States of America,Japan
+1051,United States of America,Japan
+1052,United States of America,Japan
+1053,Japan,Japan
+1054,Japan,Japan
+1055,United States of America,Japan
+1056,United States of America,Japan
+1057,Japan,United States of America
+1058,Japan,United States of America
+1059,Japan,Japan
+1060,China,Japan
+1061,China,Japan
+1062,Japan,United States of America
+1063,Japan,United States of America
+1064,Japan,United States of America
+1065,Japan,Japan
+1066,India,Japan
+1067,India,Japan
+1068,United States of America,Japan
+1069,United States of America,Japan
+1070,United States of America,Japan
+1071,United States of America,Japan
+1072,Japan,Japan
+1073,Japan,Japan
+1074,United States of America,Japan
+1075,United States of America,Japan
+1076,Japan,United States of America
+1077,Japan,United States of America
+1078,Japan,Japan
+1079,China,Japan
+1080,China,Japan
+1081,Japan,United States of America
+1082,Japan,United States of America
+1083,Japan,Japan
+1084,United States of America,Japan
+1085,United States of America,Japan
+1086,Japan,United States of America
+1087,Japan,United States of America
+1088,Japan,Japan
+1089,China,Japan
+1090,China,Japan
+1091,Japan,United States of America
+1092,Japan,United States of America
+1093,United States of America,Japan
+1094,United States of America,Japan
+1095,United States of America,Japan
+1096,United States of America,Japan
+1097,United States of America,Japan
+1098,United States of America,Japan
+1099,Japan,United States of America
+1100,Japan,United States of America
+1101,Japan,Japan
+1102,China,Japan
+1103,China,Japan
+1104,Japan,United States of America
+1105,Japan,United States of America
+1106,United States of America,Japan
+1107,United States of America,Japan
+1108,United States of America,Japan
+1109,United States of America,Japan
+1110,Japan,Japan
+1111,Japan,United States of America
+1112,Japan,United States of America
+1113,United States of America,Japan
+1114,United States of America,Japan
+1115,United States of America,Japan
+1116,United States of America,Japan
+1117,Japan,Japan
+1118,United States of America,Japan
+1119,United States of America,Japan
+1120,United States of America,Japan
+1121,United States of America,Japan
+1122,Japan,Japan
+1123,United States of America,Japan
+1124,United States of America,Japan
+1125,United States of America,Japan
+1126,Japan,Japan
+1127,Japan,Japan
+1128,United States of America,Japan
+1129,United States of America,Japan
+1130,United States of America,Japan
+1131,Japan,Japan
+1132,Japan,Japan
+1133,Japan,Japan
+1134,Germany,Japan
+1135,Germany,Japan
+1136,Germany,Japan
+1137,Germany,Poland
+1138,Germany,Poland
+1139,Germany,Poland
+1140,Poland,Russia
+1141,Germany,Russia
+1142,Germany,Germany
+1143,Poland,Russia
+1144,Germany,Russia
+1145,Germany,Germany
+1146,Poland,Russia
+1147,Germany,Russia
+1148,Germany,Germany
+1149,Poland,Russia
+1150,Germany,Russia
+1151,Germany,Germany
+1152,Germany,Germany
+1153,Germany,Germany
+1154,Germany,Russia
+1155,Germany,Germany
+1156,Germany,Germany
+1157,Germany,Germany
+1158,Germany,Japan
+1159,Germany,Russia
+1160,Germany,Germany
+1161,Germany,Germany
+1162,Germany,Germany
+1163,Germany,Japan
+1164,Japan,Russia
+1165,Japan,Russia
+1166,Germany,Germany
+1167,Germany,Japan
+1168,Japan,Russia
+1169,Japan,Russia
+1170,Germany,Germany
+1171,Germany,Japan
+1172,Japan,Russia
+1173,Japan,Russia
+1174,Germany,Germany
+1175,Germany,Japan
+1176,Japan,Russia
+1177,Japan,Russia
+1178,Japan,Russia
+1179,Japan,Russia
+1180,Japan,Russia
+1181,Japan,Russia
+1182,France,Russia
+1183,China,France
+1184,China,India
+1185,India,Pakistan
+1186,Israel,Pakistan
+1187,Israel,South Africa
+1188,Israel,South Africa
+1189,Japan,Russia
+1190,France,Russia
+1191,China,France
+1192,China,India
+1193,India,Pakistan
+1194,Israel,Pakistan
+1195,Israel,South Africa
+1196,Israel,South Africa
+1197,Israel,Libya
+1198,Iran,Libya
+1199,France,Russia
+1200,China,France
+1201,China,India
+1202,India,Pakistan
+1203,Israel,Pakistan
+1204,Israel,South Africa
+1205,Israel,South Africa
+1206,Israel,Libya
+1207,Iran,Libya
+1208,France,Russia
+1209,China,France
+1210,China,India
+1211,India,Pakistan
+1212,Israel,Pakistan
+1213,Israel,South Africa
+1214,Israel,South Africa
+1215,Israel,Libya
+1216,Iran,Libya
+1217,Iran,United States of America
+1218,France,Russia
+1219,China,France
+1220,China,India
+1221,India,Pakistan
+1222,Israel,Pakistan
+1223,Israel,South Africa
+1224,Israel,South Africa
+1225,Israel,Libya
+1226,Iran,Libya
+1227,Iran,United States of America
+1228,Germany,United States of America
+1229,France,Germany
+1230,France,Russia
+1231,China,France
+1232,China,India
+1233,India,Pakistan
+1234,Israel,Pakistan
+1235,Israel,South Africa
+1236,Israel,South Africa
+1237,Israel,Libya
+1238,Iran,Libya
+1239,Iran,United States of America
+1240,Germany,United States of America
+1241,France,Germany
+1242,France,Russia
+1243,Iran,Libya
+1244,Iran,United States of America
+1245,Germany,United States of America
+1246,France,Germany
+1247,France,Russia
+1248,Japan,Russia
+1249,Japan,United States of America
+1250,Japan,United States of America
+1251,Germany,Japan
+1252,Germany,United States of America
+1253,France,Germany
+1254,France,Russia
+1255,Japan,Russia
+1256,Japan,United States of America
+1257,Japan,United States of America
+1258,Germany,Japan
+1259,Germany,United States of America
+1260,France,Germany
+1261,France,Russia
+1262,Japan,Russia
+1263,Japan,United States of America
+1264,Japan,United States of America
+1265,Germany,Japan
+1266,France,Germany
+1267,France,Russia
+1268,Japan,Russia
+1269,Japan,United States of America
+1270,Japan,United States of America
+1271,Germany,Japan
+1272,Japan,Russia
+1273,Japan,United States of America
+1274,Japan,United States of America
+1275,Germany,Japan
+1276,Germany,Papua New Guinea
+1277,Japan,United States of America
+1278,Japan,United States of America
+1279,Germany,Japan
+1280,Germany,Papua New Guinea
+1281,India,Papua New Guinea
+1282,India,Papua New Guinea
+1283,United Kingdom,India
+1284,United Kingdom,India
+1285,India,Pakistan
+1286,Pakistan,Philippines
+1287,France,Philippines
+1288,France,Laos
+1289,Cambodia,Laos
+1290,Cambodia,Kenya
+1291,Ghana,Kenya
+1292,United Kingdom,Ghana
+1293,United Kingdom,India
+1294,United Kingdom,India
+1295,India,Pakistan
+1296,Pakistan,Philippines
+1297,France,Philippines
+1298,France,Laos
+1299,Cambodia,Laos
+1300,Cambodia,Kenya
+1301,Ghana,Kenya
+1302,United Kingdom,Ghana
+1303,United Kingdom,Guinea-Bissau
+1304,Angola,Guinea-Bissau
+1305,Angola,Mozambique
+1306,United Kingdom,India
+1307,United Kingdom,India
+1308,India,Pakistan
+1309,Pakistan,Philippines
+1310,France,Philippines
+1311,France,Laos
+1312,Cambodia,Laos
+1313,Cambodia,Kenya
+1314,Ghana,Kenya
+1315,United Kingdom,Ghana
+1316,United Kingdom,Guinea-Bissau
+1317,Angola,Guinea-Bissau
+1318,Angola,Mozambique
+1319,Mozambique,Russia
+1320,Russia,United States of America
+1321,Russia,United States of America
+1322,United Kingdom,India
+1323,United Kingdom,India
+1324,India,Pakistan
+1325,Pakistan,Philippines
+1326,France,Philippines
+1327,France,Laos
+1328,Cambodia,Laos
+1329,Cambodia,Kenya
+1330,Ghana,Kenya
+1331,United Kingdom,Ghana
+1332,United Kingdom,Guinea-Bissau
+1333,Angola,Guinea-Bissau
+1334,Angola,Mozambique
+1335,Mozambique,Russia
+1336,Russia,United States of America
+1337,Russia,United States of America
+1338,United Kingdom,India
+1339,United Kingdom,India
+1340,India,Pakistan
+1341,Pakistan,Philippines
+1342,France,Philippines
+1343,France,Laos
+1344,Cambodia,Laos
+1345,Cambodia,Kenya
+1346,Ghana,Kenya
+1347,United Kingdom,Ghana
+1348,United Kingdom,Guinea-Bissau
+1349,Angola,Guinea-Bissau
+1350,Angola,Mozambique
+1351,Mozambique,Russia
+1352,Russia,United States of America
+1353,Russia,United States of America
+1354,United Kingdom,India
+1355,India,Pakistan
+1356,Pakistan,Philippines
+1357,France,Philippines
+1358,France,Laos
+1359,Cambodia,Laos
+1360,Cambodia,Kenya
+1361,Ghana,Kenya
+1362,United Kingdom,Ghana
+1363,United Kingdom,Guinea-Bissau
+1364,Angola,Guinea-Bissau
+1365,Angola,Mozambique
+1366,Mozambique,Russia
+1367,Russia,United States of America
+1368,Russia,United States of America
+1369,Angola,Guinea-Bissau
+1370,Angola,Mozambique
+1371,Mozambique,Russia
+1372,Russia,United States of America
+1373,Russia,United States of America
+1374,Latvia,Russia
+1375,Estonia,Latvia
+1376,Estonia,Lithuania
+1377,Finland,Lithuania
+1378,Finland,Romania
+1379,Romania,Russia
+1380,Russia,United States of America
+1381,Russia,United States of America
+1382,Latvia,Russia
+1383,Estonia,Latvia
+1384,Estonia,Lithuania
+1385,Finland,Lithuania
+1386,Finland,Romania
+1387,Romania,Russia
+1388,Albania,Russia
+1389,Albania,Bulgaria
+1390,Bulgaria,Poland
+1391,Poland,Romania
+1392,Hungary,Romania
+1393,Hungary,Russia
+1394,Latvia,Russia
+1395,Estonia,Latvia
+1396,Estonia,Lithuania
+1397,Finland,Lithuania
+1398,Finland,Romania
+1399,Romania,Russia
+1400,Albania,Russia
+1401,Albania,Bulgaria
+1402,Bulgaria,Poland
+1403,Poland,Romania
+1404,Hungary,Romania
+1405,Hungary,Russia
+1406,Mongolia,Russia
+1407,China,Mongolia
+1408,China,Cuba
+1409,Cuba,Russia
+1410,Russia,Russia
+1411,Latvia,Russia
+1412,Estonia,Latvia
+1413,Estonia,Lithuania
+1414,Finland,Lithuania
+1415,Finland,Romania
+1416,Romania,Russia
+1417,Albania,Russia
+1418,Albania,Bulgaria
+1419,Bulgaria,Poland
+1420,Poland,Romania
+1421,Hungary,Romania
+1422,Hungary,Russia
+1423,Mongolia,Russia
+1424,China,Mongolia
+1425,China,Cuba
+1426,Cuba,Russia
+1427,Russia,Russia
+1428,Latvia,Russia
+1429,Estonia,Latvia
+1430,Estonia,Lithuania
+1431,Finland,Lithuania
+1432,Finland,Romania
+1433,Romania,Russia
+1434,Albania,Russia
+1435,Albania,Bulgaria
+1436,Bulgaria,Poland
+1437,Poland,Romania
+1438,Hungary,Romania
+1439,Hungary,Russia
+1440,Mongolia,Russia
+1441,China,Mongolia
+1442,China,Cuba
+1443,Cuba,Russia
+1444,Russia,Russia
+1445,China,Russia
+1446,China,United States of America
+1447,Estonia,Latvia
+1448,Estonia,Lithuania
+1449,Finland,Lithuania
+1450,Finland,Romania
+1451,Romania,Russia
+1452,Albania,Russia
+1453,Albania,Bulgaria
+1454,Bulgaria,Poland
+1455,Poland,Romania
+1456,Hungary,Romania
+1457,Hungary,Russia
+1458,Mongolia,Russia
+1459,China,Mongolia
+1460,China,Cuba
+1461,Cuba,Russia
+1462,Russia,Russia
+1463,China,Russia
+1464,China,United States of America
+1465,Japan,United States of America
+1466,Japan,Russia
+1467,United States of America,Russia
+1468,United States of America,Canada
+1469,Australia,Canada
+1470,Albania,Bulgaria
+1471,Bulgaria,Poland
+1472,Poland,Romania
+1473,Hungary,Romania
+1474,Hungary,Russia
+1475,Mongolia,Russia
+1476,China,Mongolia
+1477,China,Cuba
+1478,Cuba,Russia
+1479,Russia,Russia
+1480,China,Russia
+1481,China,United States of America
+1482,Japan,United States of America
+1483,Japan,Russia
+1484,United States of America,Russia
+1485,United States of America,Canada
+1486,Australia,Canada
+1487,Australia,China
+1488,China,Mongolia
+1489,China,Cuba
+1490,Cuba,Russia
+1491,Russia,Russia
+1492,China,Russia
+1493,China,United States of America
+1494,Japan,United States of America
+1495,Japan,Russia
+1496,United States of America,Russia
+1497,United States of America,Canada
+1498,Australia,Canada
+1499,Australia,China
+1500,China,France
+1501,France,Vietnam
+1502,China,United States of America
+1503,Japan,United States of America
+1504,Japan,Russia
+1505,United States of America,Russia
+1506,United States of America,Canada
+1507,Australia,Canada
+1508,Australia,China
+1509,China,France
+1510,France,Vietnam
+1511,China,United States of America
+1512,Japan,United States of America
+1513,Japan,Russia
+1514,United States of America,Russia
+1515,United States of America,Canada
+1516,Australia,Canada
+1517,Australia,China
+1518,China,France
+1519,France,Vietnam
+1520,United States of America,Vietnam
+1521,United States of America,United States of America
+1522,United States of America,United States of America
+1523,United States of America,United States of America
+1524,Japan,Russia
+1525,United States of America,Russia
+1526,United States of America,Canada
+1527,Australia,Canada
+1528,Australia,China
+1529,China,France
+1530,France,Vietnam
+1531,United States of America,Vietnam
+1532,United States of America,United States of America
+1533,United States of America,United States of America
+1534,United States of America,United States of America
+1535,United States of America,United States of America
+1536,China,France
+1537,France,Vietnam
+1538,United States of America,Vietnam
+1539,United States of America,United States of America
+1540,United States of America,United States of America
+1541,United States of America,United States of America
+1542,United States of America,United States of America
+1543,United States of America,United States of America
+1544,France,Vietnam
+1545,United States of America,Vietnam
+1546,United States of America,United States of America
+1547,United States of America,United States of America
+1548,United States of America,United States of America
+1549,United States of America,United States of America
+1550,United States of America,United States of America
+1551,United States of America,Cambodia
+1552,Cambodia,United States of America
+1553,United States of America,United States of America
+1554,United States of America,United States of America
+1555,United States of America,United States of America
+1556,United States of America,United States of America
+1557,United States of America,United States of America
+1558,United States of America,Cambodia
+1559,Cambodia,United States of America
+1560,United States of America,United States of America
+1561,United States of America,United States of America
+1562,United States of America,United States of America
+1563,United States of America,United States of America
+1564,United States of America,United States of America
+1565,United States of America,Cambodia
+1566,Cambodia,United States of America
+1567,United States of America,Vietnam
+1568,United States of America,United States of America
+1569,United States of America,Cambodia
+1570,Cambodia,United States of America
+1571,United States of America,Vietnam
+1572,Cuba,Vietnam
+1573,Cuba,Russia
+1574,United States of America,Cambodia
+1575,Cambodia,United States of America
+1576,United States of America,Vietnam
+1577,Cuba,Vietnam
+1578,Cuba,Russia
+1579,Cuba,Russia
+1580,Cambodia,United States of America
+1581,United States of America,Vietnam
+1582,Cuba,Vietnam
+1583,Cuba,Russia
+1584,Cuba,Russia
+1585,Cuba,Russia
+1586,Russia,United States of America
+1587,United States of America,Vietnam
+1588,Cuba,Vietnam
+1589,Cuba,Russia
+1590,Cuba,Russia
+1591,Cuba,Russia
+1592,Russia,United States of America
+1593,Cuba,Vietnam
+1594,Cuba,Russia
+1595,Cuba,Russia
+1596,Cuba,Russia
+1597,Russia,United States of America
+1598,United States of America,United States of America
+1599,Russia,United States of America
+1600,Russia,Russia
+1601,United States of America,Russia
+1602,Cuba,Russia
+1603,Cuba,Russia
+1604,Cuba,Russia
+1605,Russia,United States of America
+1606,United States of America,United States of America
+1607,Russia,United States of America
+1608,Russia,Russia
+1609,United States of America,Russia
+1610,Russia,United States of America
+1611,Cuba,Russia
+1612,Russia,United States of America
+1613,United States of America,United States of America
+1614,Russia,United States of America
+1615,Russia,Russia
+1616,United States of America,Russia
+1617,Russia,United States of America
+1618,Russia,United States of America
+1619,United States of America,United States of America
+1620,Russia,United States of America
+1621,Russia,Russia
+1622,United States of America,Russia
+1623,Russia,United States of America
+1624,Russia,United States of America
+1625,Russia,Russia
+1626,United States of America,Russia
+1627,Russia,United States of America
+1628,Russia,Russia
+1629,Japan,Russia
+1630,Russia,United States of America
+1631,Russia,Russia
+1632,United States of America,Russia
+1633,Russia,United States of America
+1634,Russia,Russia
+1635,Japan,Russia
+1636,Russia,United States of America
+1637,Russia,Russia
+1638,Japan,Russia
+1639,Japan,Russia
+1640,United States of America,Russia
+1641,Japan,Russia
+1642,Japan,Russia
+1643,United States of America,Russia
+1644,Russia,United States of America
+1645,Japan,Russia
+1646,Japan,Russia
+1647,United States of America,Russia
+1648,Russia,United States of America
+1649,Russia,Russia
+1650,Japan,Russia
+1651,Japan,Russia
+1652,United States of America,Russia
+1653,Russia,United States of America
+1654,Russia,Russia
+1655,United States of America,Russia
+1656,Russia,United States of America
+1657,Russia,Russia
+1658,United States of America,Russia
+1659,Russia,United States of America
+1660,Russia,Russia
+1661,Russia,Russia
+1662,China,United States of America
+1663,China,United States of America
+1664,China,United States of America
+1665,China,United States of America
+1666,China,India
+1667,China,United States of America
+1668,China,India
+1669,China,United States of America
+1670,China,India
+1671,China,United States of America
+1672,China,India
+1673,China,India
+1674,China,India
+1675,India,South Africa
+1676,Rwanda,South Africa
+1677,Rwanda,South Africa
+1678,Rwanda,South Africa
+1679,Rwanda,South Africa
+1680,Rwanda,South Africa
+1681,Austria,United Kingdom
+1682,Austria,United Kingdom
+1683,Austria,United Kingdom
+1684,Finland,Russia
+1685,Finland,Russia
+1686,Finland,Russia
+1687,Finland,Germany
+1688,Finland,Russia
+1689,Finland,Germany
+1690,Finland,Russia
+1691,Finland,Germany
+1692,Finland,Russia
+1693,Finland,Germany
+1694,Finland,Germany
+1695,Finland,Germany
+1696,United Kingdom,Germany
+1697,United Kingdom,Germany
+1698,Germany,Norway
+1699,United Kingdom,Germany
+1700,Germany,Norway
+1701,Germany,Norway
+1702,Germany,Norway
+1703,Germany,Norway
+1704,Germany,Norway
+1705,France,Italy
+1706,France,Italy
+1707,France,Italy
+1708,France,Italy
+1709,Greece,Italy
+1710,Greece,Italy
+1711,Greece,Italy
+1712,United Kingdom,Germany
+1713,United Kingdom,Germany
+1714,United Kingdom,Germany
+1715,United Kingdom,Germany
+1716,France,Italy
+1717,Italy,Japan
+1718,Italy,Japan
+1719,Italy,Japan
+1720,Italy,Japan
+1721,Italy,Japan
+1722,Italy,Japan
+1723,Japan,United States of America
+1724,Japan,United States of America
+1725,Japan,Russia
+1726,Japan,Russia
+1727,Japan,Russia
+1728,India,Pakistan
+1729,India,Pakistan
+1730,India,Pakistan
+1731,India,Pakistan
+1732,India,Pakistan
+1733,India,Pakistan
+1734,Philippines,United States of America
+1735,Philippines,United States of America
+1736,Philippines,United States of America
+1737,France,United States of America
+1738,Philippines,United States of America
+1739,France,United States of America
+1740,Philippines,United States of America
+1741,France,United States of America
+1742,Philippines,United States of America
+1743,France,United States of America
+1744,Romania,Russia
+1745,Romania,Russia
+1746,Romania,Russia
+1747,Romania,Russia
+1748,Romania,Russia
+1749,Romania,Russia
+1750,India,Lebanon
+1751,India,Lebanon
+1752,India,Singapore
+1753,India,Singapore
+1754,India,Singapore
+1755,India,Singapore
+1756,India,Singapore
